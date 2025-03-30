@@ -40,7 +40,7 @@ streamlit run app.py
 - ✅ Add more style options.
 
 ## 📷 Example Output
-![Example](example_output.png)
+![Example]("nst.png")
 
 ## 📝 About Neural Style Transfer
 Neural Style Transfer (NST) is a deep learning technique that applies the style of one image to another while preserving its content. It leverages **Convolutional Neural Networks (CNNs)** to extract content and style features and blend them seamlessly.
